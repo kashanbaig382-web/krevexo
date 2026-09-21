@@ -4480,3 +4480,20 @@ textarea {
     margin-bottom: 28px;
   }
 }
+/* Prevent unwanted horizontal page scroll */
+html,
+body {
+  width: 100%;
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+img,
+canvas,
+svg {
+  max-width: 100%;
+}
