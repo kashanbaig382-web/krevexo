@@ -24,6 +24,11 @@ export const metadata = {
 
   description:
     "Free, fast browser tools for creators, marketers and everyday digital work. Compress images, format text, build campaign links, generate QR codes and more.",
+
+  verification: {
+    google: "ZHGMlJyEfoAgAckEEC9z_HfWEKZA_SSr2QBuTUkKGYU",
+  },
+  
   keywords: [
     "KREVEXO",
     "free online tools",
