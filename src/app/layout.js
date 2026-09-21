@@ -14,6 +14,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
+
+  metadataBase: new URL("https://krevexo-tools.vercel.app"),
+
   title: {
     default: "KREVEXO | Smart Tools for Modern Creators",
     template: "%s | KREVEXO",
@@ -21,7 +24,6 @@ export const metadata = {
 
   description:
     "Free, fast browser tools for creators, marketers and everyday digital work. Compress images, format text, build campaign links, generate QR codes and more.",
-
   keywords: [
     "KREVEXO",
     "free online tools",
