@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Terms of Use | KREVEXO",
+  title: "Terms of Use",
   description:
     "Read the Terms of Use for accessing and using KREVEXO and its free browser-based tools.",
 };

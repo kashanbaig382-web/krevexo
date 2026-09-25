@@ -1,7 +1,7 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "About KREVEXO | Smart Tools for Modern Creators",
+  title: "About Us",
   description:
     "Learn about KREVEXO and our collection of free browser-based tools built for creators, marketers and everyday digital work.",
 };

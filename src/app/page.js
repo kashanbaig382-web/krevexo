@@ -23,7 +23,7 @@ export default function Home() {
             </p>
 
             <div className="hero-actions">
-              <a href="#tools" className="primary-btn">
+              <a href="/tools" className="primary-btn">
                 Explore Tools
                 <span>→</span>
               </a>
@@ -328,7 +328,7 @@ export default function Home() {
                 modern creators and marketers.
               </p>
 
-              <a href="#tools" className="cta-btn">
+              <a href="/tools" className="cta-btn">
                 Explore Tools <span>→</span>
               </a>
             </div>

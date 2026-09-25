@@ -1,9 +1,9 @@
 import Link from "next/link";
 
 export const metadata = {
-  title: "Free Online Tools | KREVEXO",
+  title: "Free Online Tools for Creators & Marketers",
   description:
-    "Explore free browser tools for images, text, social media, marketing and everyday digital work.",
+    "Explore free online tools for images, text, social media, marketing and everyday digital work. No signup required.",
 };
 
 const tools = [
@@ -95,10 +95,11 @@ export default function ToolsPage() {
       <section className="tools-page-hero">
         <div className="container">
           <span className="section-label">KREVEXO TOOLS</span>
-          <h1>Free tools for everyday digital work.</h1>
+          <h1>Free Online Tools for Creators & Marketers</h1>
+
           <p>
-            Simple browser-based utilities for creators, marketers and anyone
-            who wants to get digital tasks done faster.
+            Explore free browser-based tools for images, text, social media,
+            marketing and everyday digital work. No signup required.
           </p>
 
           <div className="tools-summary">

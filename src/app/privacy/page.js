@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Privacy Policy | KREVEXO",
+  title: "Privacy Policy",
   description:
     "Read the KREVEXO Privacy Policy to understand how information is handled when you use our website and browser-based tools.",
 };

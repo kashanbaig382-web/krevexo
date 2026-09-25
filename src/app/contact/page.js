@@ -1,7 +1,7 @@
 import ContactForm from "./ContactForm";
 
 export const metadata = {
-  title: "Contact KREVEXO | Get in Touch",
+  title: "Contact Us",
   description:
     "Contact KREVEXO with questions, feedback or suggestions about our free online tools.",
 };
